@@ -1,0 +1,5 @@
+django
+djangorestframework
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process 
+.\env\Scripts\activate
